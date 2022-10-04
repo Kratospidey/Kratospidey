@@ -1,4 +1,4 @@
-# 🏄‍♂️ Kratospidey
+# 🌃 Kratospidey
 
 **`Student Developer`**
 
