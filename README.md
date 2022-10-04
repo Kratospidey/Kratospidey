@@ -41,7 +41,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Stats
 
-![Kratospidey's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Kratospidey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kratospidey&theme=dark&show_icons=true&count_private=true)
 
 #
 
