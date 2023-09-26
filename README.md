@@ -2,7 +2,7 @@
 
 **`Student Developer`**
 
-Hey, I'm a second year student at Mukesh Patel School of Technology Management & Engineering, currently pursuing a BTECH degree in information technology. My major interests are creating cools stuff such as bots, interactive websites and tools to name a few. I plan to do a lot more stuff in future!
+Hey, I'm a third year student at Mukesh Patel School of Technology Management & Engineering, currently pursuing a BTECH degree in information technology. My major interests are creating cools stuff such as bots, interactive websites and tools to name a few. I plan to do a lot more stuff in future!
    <p align="left">
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kratospidey?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
