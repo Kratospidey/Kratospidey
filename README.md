@@ -12,6 +12,45 @@ Hey, I'm a third year student at Mukesh Patel School of Technology Management & 
 
 ---
 
+```text
+param@kraterm
+-------------------------------
+Name: Param Singh Makwana
+Location: Mumbai, India
+College: MPSTME, NMIMS
+Education: Integrated B.Tech, Information Technology
+Study: Final year | May 2021 - May 2027
+-------------------------------
+OS / distro: CachyOS
+WM / desktop: niri + DankMaterialShell
+Shell: zsh
+Editor: VS Code
+Building: IDH brain-tumour MRI project
+Research: LLM security, reliability & backdoors
+ Medical imaging & phishing detection
+Languages: Python, JavaScript/TypeScript, Java
+ C/C++, SQL
+Hobbies.Software: AI, gaming
+Hobbies.Offline: Cooking, photography
+Games: Elden Ring, Deadlock
+ Clair Obscur: Expedition 33
+Camera app: Dazz Cam
+Music: Tame Impala, TV Girl, Vansire
+ Radiohead, Nirvana
+-------------------------------
+Contact: contact@kratospidey.com
+Website: github.com/kratospidey
+LinkedIn: linkedin.com/in/kratospidey
+Steam: KratosSpidey
+-------------------------------
+Published: IEEE GCAT 2024 | Progressive Round Robin
+Presented: DACS 2025 | PhisDOM
+Ongoing: LLM backdoor auditing & partial recovery
+In preparation: IDH classification from brain MRI
+```
+
+---
+
 ### 👾 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
